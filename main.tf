@@ -1,2 +1,2 @@
-resources "null" "demo" {
+resource "null_resource" "this" {
 }
